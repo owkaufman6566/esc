@@ -1,6 +1,9 @@
 html{
-    background: #d8dce3;
-    font-family:sans-serif
+    background: #3f4756;
+    font-family:sans-serif;
+    color:aliceblue;
 }
-
+a{
+    color:rgb(103, 182, 251);
+}
 /*classes*/

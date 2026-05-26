@@ -6,6 +6,9 @@ html{
 a{
     color:rgb(103, 182, 251);
 }
+canvas {
+    border: 3px solid white;
+}
 /*classes*/
 .header {
     background-color: rgb(27, 34, 30);
@@ -15,6 +18,10 @@ a{
     margin-right: -2%;
 
 }
+.unhighlightable{
+    user-select: none;
+}
+
 /* IDS */
 
 #center {

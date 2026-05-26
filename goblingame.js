@@ -18,6 +18,6 @@ goblin.addEventListener('click', () => {
     document.getElementById("counter").innerHTML = "SCORE: " + score;
     goblin.style.display = 'none';
     
-    setTimeout(game, 1000);
+    setTimeout(game, 1001);
 });
 game();

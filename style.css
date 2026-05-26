@@ -7,10 +7,31 @@ a{
     color:rgb(103, 182, 251);
 }
 /*classes*/
+.header {
+    background-color: rgb(27, 34, 30);
+    padding: 3%;
+    margin-top: -2%;
+    margin-left: -2%;
+    margin-right: -2%;
 
+}
 /* IDS */
 
-#centre {
+#center {
 
     text-align: center;
+}
+
+#coolfont {
+
+    font-family: monospace;
+}
+
+#background {
+    background-image: url(in-the-forest-wallpaper-room.jpg); 
+    height: 105vh; 
+    width: 102vw; 
+    margin-left: -2%;
+    background-repeat: no-repeat; 
+    background-size: cover;
 }

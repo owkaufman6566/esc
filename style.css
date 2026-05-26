@@ -18,6 +18,10 @@ canvas {
     margin-right: -2%;
 
 }
+.unhighlightable{
+    user-select: none;
+}
+
 /* IDS */
 
 #center {

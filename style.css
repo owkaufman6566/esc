@@ -22,6 +22,18 @@ canvas {
     user-select: none;
 }
 
+.boat{
+    user-select: none;
+    color:black;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
 /* IDS */
 
 #center {

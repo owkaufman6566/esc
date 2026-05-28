@@ -11,24 +11,17 @@
 <!--title-->
     <title>ESC</title>
 </head>
-<body>
-
-    <div class="main" id="coolfont">
-        <pre>
- ______    _____    _____ 
-|  ____|  / ____|  / ____|
-| |__    | (___   | |     
-|  __|    \___ \  | |     
-| |____   ____) | | |____ 
-|______| |_____/   \_____|
-        </pre>
-        <p>Your target is escAPCS@proton.me</p>
-        <p>They have your next code, but it is locked away in a safe place.</p>
-        <p>Their friend has emailed them the code as well.</p>
-        <p>You know that they enjoy pizza and sandwiches.</p>
-        <p>You also know that they were born on Nov 16th.</p>
-        <p>According to your document, their password has no spaces, no capitalization, no symbols, and no particles such as "and" or "yet".</p>
-        <p>Good luck.</p>
+<body style="overflow: hidden;">
+    <div class="main" id="background">
+        
+        <div class="header">
+            <p id="center" style="font-weight: bold;">GET TO 10 TO GET YOUR NEXT CODE</p>
+            <!-- <p id="center"> no using inspect element for this one its cheating.</p> -->
+            <p id="counter" style="margin-left: 10vw;">SCORE: 0</p>
+            <!-- aww baby can't click 10 goblins wawawa -->
+        </div>
+        <img id="goblin" style="scale: 20%;" src="goblin.png">
     </div>
+    <script src="goblingame.js"></script>
 </body>
 </html>

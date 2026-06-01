@@ -20,6 +20,15 @@ div {
     justify-content: space-evenly;
 }
 
+.post {
+    background-color: #313234;
+    outline-style: solid;
+    outline-color: #dddddd;
+    outline-width: 2px;
+    padding: 2%;
+    margin: 1%;
+}
+
 #inactive {
     color: white;
 }

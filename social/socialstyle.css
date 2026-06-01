@@ -4,14 +4,22 @@ html{
     color:white;
 }
 
-a{
-    color:aqua;
+img {
+    boarder-radius: 15px;
 }
 
-.navbar{
-    display: flex; justify-content: center;
-    gap: 20px;
-    padding: 20px;
-    background: blue;
+div {
+    padding:3%;
+    background-color: #5d9afc;
+    margin-bottom: 10px;
+    boarder-radius: 10px;
+}
 
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#inactive {
+    color: white;
 }

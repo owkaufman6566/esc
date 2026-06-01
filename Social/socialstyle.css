@@ -9,18 +9,14 @@ a{
     text-decoration: none;
 }
 
-div {
-    padding:3%;
-    background-color: #5d9afc;
-    margin-bottom: 10px;
-    
+a{
+    color:aqua;
 }
 
-.nav {
-    display: flex;
-    justify-content: space-evenly;
-}
+.navbar{
+    display: flex; justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    background: blue;
 
-#inactive {
-    color: white;
 }

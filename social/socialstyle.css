@@ -9,7 +9,7 @@ img {
 }
 
 div {
-    padding:3%;
+    padding:0%;
     background-color: #5d9afc;
     margin-bottom: 10px;
     border-radius: 10px;
@@ -31,4 +31,14 @@ div {
 
 #inactive {
     color: white;
+}
+#comment{
+    background-color: #313234;
+    outline-style: solid;
+    outline-color: #075fb7;
+    outline-width: 2px;
+    padding-top: 0.002%;
+    padding-bottom: 0.002%;
+    padding-left: 1%;
+    
 }

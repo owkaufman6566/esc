@@ -1,22 +1,25 @@
 html{
-    font-family:Arial;
-    background-color: #0059e8;
+    background: black;
+    font-family:arial;
+    color:white;
+}
+
+img {
+    border-radius: 15px;
+}
+
+div {
+    padding:3%;
+    background-color: #5d9afc;
+    margin-bottom: 10px;
+    boarder-radius: 10px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#inactive {
     color: white;
-}
-
-a{
-    color: yellow;
-    text-decoration: none;
-}
-
-a{
-    color:aqua;
-}
-
-.navbar{
-    display: flex; justify-content: center;
-    gap: 20px;
-    padding: 20px;
-    background: blue;
-
 }

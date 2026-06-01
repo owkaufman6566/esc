@@ -1,4 +1,12 @@
-document.getElementById("answer").innerHTML = "the function name is 'supurb()' "
+document.addEventListener("keydown", function(event) {
+    if (event.ctrlKey) document.getElementById("answer").innerHTML = "the function name is 'supurb()' ";
+});
+document.addEventListener("keydown", function(event) {
+    if (event.metaKey) document.getElementById("answer").innerHTML = "the function name is 'supurb()' ";
+});
+
+
+
 
 function supurb(click){
 

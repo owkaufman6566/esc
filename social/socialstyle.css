@@ -5,14 +5,14 @@ html{
 }
 
 img {
-    boarder-radius: 15px;
+    border-radius: 15px;
 }
 
 div {
     padding:3%;
     background-color: #5d9afc;
     margin-bottom: 10px;
-    boarder-radius: 10px;
+    border-radius: 10px;
 }
 
 .nav {

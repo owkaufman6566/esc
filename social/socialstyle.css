@@ -10,17 +10,18 @@ img {
 
 div {
     padding:1%;
-    background-color: #5d9afc;
+    background-color: #438de8;
     margin-bottom: 10px;
     border-radius: 10px;
 }
 
 a {
-    color: #00bbff;
+    color: #5b0085;
     text-decoration:none;
 }
 
 .nav {
+    
     padding: 3%;
     display: flex;
     justify-content: space-evenly;

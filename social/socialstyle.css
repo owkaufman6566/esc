@@ -10,9 +10,14 @@ img {
 
 div {
     padding:3%;
-    background-color: #5d9afc;
+    background-color: #0362ab;
     margin-bottom: 10px;
     border-radius: 10px;
+}
+
+a {
+    color: #00bbff;
+    text-decoration:none;
 }
 
 .nav {

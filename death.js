@@ -3,10 +3,15 @@ function thankYou() {
   setInterval(curiosityIsACurse, 100);
 }
 
-function curiosityIsACurse() {
-   
-    window.open("", "Finale", "width=400,height=400");
+let x = 2, y = 2;
+let xDelta = 5, yDelta = 5;
 
-    setInterval(curiosityIsACurse, 1000);
+function curiosityIsACurse() {
+    window.open("", "FINALE");
+    var johan = window.open("", "FINALE",'width=3, height=3030,');
+    
+    while(true){
+        setInterval(curiosityIsACurse, 500);
+    }
     
 }

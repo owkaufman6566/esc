@@ -34,6 +34,11 @@ canvas {
   height: 200px;
 }
 
+.tbutton {
+    background-color: transparent;
+    outline: none;
+    scale: 10%;
+}
 /* IDS */
 
 #center {

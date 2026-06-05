@@ -37,7 +37,9 @@ canvas {
 .tbutton {
     background-color: transparent;
     outline: none;
-    scale: 10%;
+    scale: 40%;
+    margin: -20%;
+    margin-left: 12vw;
 }
 /* IDS */
 
